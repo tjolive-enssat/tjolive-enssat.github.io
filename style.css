@@ -140,3 +140,14 @@ footer {
 #mon-image{
     width: 100%;
 }
+
+#videoYoutube{
+    width: 640px;
+    height: 360px;
+}
+
+table{
+    font-size: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #2a2a2a;
+}
